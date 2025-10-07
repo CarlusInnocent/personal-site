@@ -1,4 +1,4 @@
-name: 🚀 Deploy to InfinityFree (Static Site)
+name: FTP_INFINITY_FREE
 
 on:
   push:
