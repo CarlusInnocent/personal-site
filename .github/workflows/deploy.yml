@@ -20,4 +20,4 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./       # upload everything in the repo
-          server-dir: /htdocs/ # InfinityFree’s web root
+          server-dir: /portfolio.ica-technologies.xyz/htdocs/ # InfinityFree’s web root
